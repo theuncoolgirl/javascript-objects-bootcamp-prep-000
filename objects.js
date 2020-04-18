@@ -1,2 +1,4 @@
 var playlist = {  Flatliners: "Monumentl" };
-playlist.artistName = "songTitle";
+function updatePlaylist(playlist, artistName, songTitle) {
+  playlist.artistname = "songTitle"
+}
