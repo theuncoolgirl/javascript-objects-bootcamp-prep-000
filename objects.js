@@ -1,2 +1,2 @@
 var playlist = {  Flatliners: "Monumentl" };
-updatePlaylist(playlist, Menzingers, "Good Things")
+playlist.Menzingers = "Good Things";
