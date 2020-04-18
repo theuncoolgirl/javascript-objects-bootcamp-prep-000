@@ -1,2 +1,2 @@
 var playlist = {  Flatliners: "Monumentl" };
-playlist.Menzingers = "Good Things";
+playlist.artistName = "songTitle";
